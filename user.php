@@ -17,7 +17,7 @@
             <input type="number" name="balance" placeholder="Enter your balance">
             <br><br>
             <input type="radio" name="role" value="student"> Student
-            <input type="radio" name="role" value="teacher"> Teacher
+            <input type="radio" name="role" value="staff"> Kitchen Staff
             <br><br>
             <input type="password" name="password" placeholder="Enter your password">
             <br><br>
